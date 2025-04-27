@@ -19,3 +19,7 @@ BOOL APIENTRY DllMain( HMODULE hModule,
     return TRUE;
 }
 
+EXTERN_C void CallAx12(void)
+{
+    std::cout << "CallAx12 called!\n";
+}

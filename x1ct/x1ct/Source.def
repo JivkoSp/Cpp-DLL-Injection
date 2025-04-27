@@ -1,0 +1,4 @@
+LIBRARY x1ct
+
+EXPORTS
+CallAx12
